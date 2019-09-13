@@ -1,0 +1,72 @@
+{
+  "hidesExplorerArrows": true,
+  "iconDefinitions": {
+    "_default": {
+      "iconPath": "./svg/default-icon.svg"
+    },
+    "_folder": {
+      "iconPath": "./svg/folder-icon.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./svg/folder-icon-open.svg"
+    },
+    "_json": {
+      "iconPath": "./svg/json-icon.svg"
+    },
+    "_js": {
+      "iconPath": "./svg/js-icon.svg"
+    },
+    "_html": {
+      "iconPath": "./svg/html-icon.svg"
+    },
+    "_css": {
+      "iconPath": "./svg/css-icon.svg"
+    },
+    "_vue": {
+      "iconPath": "./svg/vue-icon.svg"
+    },
+    "_image": {
+      "iconPath": "./svg/image-icon.svg"
+    },
+    "_php": {
+      "iconPath": "./svg/php-icon.svg"
+    }
+  },
+  "file": "_default",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "fileExtensions": {
+    "ts": "_js",
+    "typescript": "_js",
+    "spec.ts": "_js",
+    "typescriptreact": "_js",
+    "js": "_js",
+    "jsx": "_js",
+    "js.map": "_js",
+    "es": "_js",
+    "es5": "_js",
+    "es7": "_js",
+    "json": "_json",
+    "html": "_html",
+    "pug": "_html",
+    "java": "_html",
+    "classpath": "_html",
+    "rb": "_html",
+    "css": "_css",
+    "sass": "_css",
+    "scss": "_css",
+    "stylus": "_css",
+    "styl": "_css",
+    "vue": "_vue",
+    "gif": "_image",
+    "jpg": "_image",
+    "jpeg": "_image",
+    "png": "_image",
+    "pxm": "_image",
+    "svg": "_image",
+    "svgx": "_image",
+    "ico": "_image",
+    "php": "_php",
+    "py": "_php"
+  }
+}

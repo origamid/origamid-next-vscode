@@ -1,0 +1,28 @@
+{
+  "name": "origamid-next",
+  "displayName": "Origamid Next",
+  "description": "Color theme, icons and setup for front end development (HTML, CSS, JavaScript, Vue and React)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Origamid Next",
+        "uiTheme": "vs-dark",
+        "path": "./themes/origamid-next-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "label": "Origamid Icons",
+        "id": "origamid-icons",
+        "path": "./icons/origamid-icons.json"
+      }
+    ]
+  }
+}
