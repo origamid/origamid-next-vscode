@@ -55,7 +55,6 @@
     "sideBarTitle.foreground": "#555555",
     "sideBarSectionHeader.background": "#111111",
     "sideBarSectionHeader.foreground": "#666666",
-    "editorGroup.background": "#111111",
     "editorGroup.border": "#111111",
     "editorGroup.dropBackground": "#111111bb",
     "editorGroupHeader.noTabsBackground": "#111111",
@@ -72,14 +71,14 @@
     "editor.foreground": "#FFFFFF",
     "editorLineNumber.foreground": "#555555",
     "editorCursor.foreground": "#FFFFFF",
-    "editor.selectionBackground": "#99999955",
-    "editor.selectionHighlightBackground": "#00000000",
-    "editor.wordHighlightBackground": "#00000066",
-    "editor.wordHighlightStrongBackground": "#00000000",
-    "editor.findMatchBackground": "#99999955",
-    "editor.findMatchHighlightBackground": "#99999955",
-    "editor.inactiveSelectionBackground": "#99999911",
-    "editor.findRangeHighlightBackground": "#00000066",
+    "editor.selectionBackground": "#5511AA",
+    "editor.selectionHighlightBackground": "#5511AA55",
+    "editor.inactiveSelectionBackground": "#5511AA55",
+    "editor.wordHighlightBackground": "#5511AA55",
+    "editor.wordHighlightStrongBackground": "#5511AA55",
+    "editor.findMatchBackground": "#5511AA55",
+    "editor.findMatchHighlightBackground": "#5511AACC",
+    // "editor.findRangeHighlightBackground": "#00000066",
     "editor.hoverHighlightBackground": "#333333",
     "editor.lineHighlightBackground": "#00000066",
     "editor.lineHighlightBorder": "#00000000",
@@ -168,17 +167,6 @@
     "titleBar.inactiveBackground": "#111111",
     "titleBar.activeForeground": "#888888",
     "titleBar.inactiveForeground": "#555555",
-    "notification.background": "#111111",
-    "notification.foreground": "#555555",
-    "notification.buttonBackground": "#333333",
-    "notification.buttonHoverBackground": "#333333",
-    "notification.buttonForeground": "#88CC44",
-    "notification.infoBackground": "#111111",
-    "notification.infoForeground": "#BBA0FF",
-    "notification.warningBackground": "#111111",
-    "notification.warningForeground": "#88BBFF",
-    "notification.errorBackground": "#111111",
-    "notification.errorForeground": "#88BBFF",
     "extensionButton.prominentForeground": "#FFFFFF",
     "extensionButton.prominentBackground": "#333333",
     "extensionButton.prominentHoverBackground": "#555555",
@@ -213,7 +201,7 @@
     {
       "scope": ["variable.language.this"],
       "settings": {
-        "fontStyle": "normal"
+        "fontStyle": ""
       }
     },
     {
@@ -304,7 +292,8 @@
         "entity.other.attribute-name.id.css",
         "entity.other.attribute-name.id.css punctuation",
         "entity.other.attribute-name.class.css punctuation",
-        "meta.function-call support.function.construct"
+        "meta.function-call support.function.construct",
+        "entity.other.attribute-name"
       ],
       "settings": {
         "foreground": "#FFDD44"
@@ -313,13 +302,7 @@
     {
       "scope": "storage.type.function.arrow",
       "settings": {
-        "fontStyle": "normal",
-        "foreground": "#FFDD44"
-      }
-    },
-    {
-      "scope": "entity.other.attribute-name",
-      "settings": {
+        "fontStyle": "",
         "foreground": "#FFDD44"
       }
     },

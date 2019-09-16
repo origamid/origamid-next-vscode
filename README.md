@@ -61,7 +61,6 @@ wordpresstoolbox.wordpress-toolbox
   "workbench.iconTheme": "origamid-icons",
   "editor.minimap.renderCharacters": false,
   "breadcrumbs.enabled": false,
-  "explorer.decorations.badges": false,
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
   "color-highlight.markerType": "dot-before",
@@ -75,6 +74,5 @@ wordpresstoolbox.wordpress-toolbox
   },
   "explorer.sortOrder": "type",
   "window.title": "${activeEditorMedium}${separator}${rootName}",
-  "sync.gist": "3c60dcb964c6ec3338af818461c40030",
 }
 ```
