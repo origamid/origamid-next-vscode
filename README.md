@@ -1,6 +1,6 @@
 # Origamid Next - Visual Studo Code Setup
 
-![Screenshot](https://github.com/origamid/origamid-next-vscode/raw/master/./screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/origamid/origamid-next-vscode/master/screenshot.png)
 
 # Instalação
 
