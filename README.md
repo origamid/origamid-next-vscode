@@ -30,8 +30,6 @@ naumovs.color-highlight
 ritwickdey.LiveServer
 octref.vetur
 dsznajder.es7-react-js-snippets
-claudiosanches.woocommerce
-wordpresstoolbox.wordpress-toolbox
 ```
 
 ```js
