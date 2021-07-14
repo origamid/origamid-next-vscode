@@ -55,10 +55,13 @@ dsznajder.es7-react-js-snippets
   "files.associations": {
     "*.js": "javascriptreact"
   },
-  "workbench.colorTheme": "Origamid",
+  "workbench.colorTheme": "Origamid Next",
   "workbench.iconTheme": "origamid-icons",
   "editor.minimap.renderCharacters": false,
-  "breadcrumbs.enabled": false,
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.filePath": "off",
+  "breadcrumbs.icons": false,
+  "outline.icons": false
   "telemetry.enableCrashReporter": false,
   "telemetry.enableTelemetry": false,
   "color-highlight.markerType": "dot-before",
