@@ -2,7 +2,7 @@
 
 All notable changes to the "origamid-next" extension will be documented in this file.
 
-## [2.0.1] - 2021-07-13
+## [2.0.3] - 2021-07-13
 
 - Menu selection contrast fixed
 
