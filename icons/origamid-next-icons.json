@@ -42,6 +42,7 @@
     "typescriptreact": "_js",
     "js": "_js",
     "jsx": "_js",
+    "tsx": "_js",
     "js.map": "_js",
     "es": "_js",
     "es5": "_js",

@@ -191,8 +191,6 @@
     "gitDecoration.modifiedResourceForeground": "#CCC",
     "gitDecoration.untrackedResourceForeground": "#CCC",
     "debugToolBar.background": "#111111",
-    "welcomePage.buttonBackground": "#333333",
-    "welcomePage.buttonHoverBackground": "#555555",
     "walkThrough.embeddedEditorBackground": "#111111",
     "menu.foreground": "#ffffff",
     "menu.background": "#333333"
