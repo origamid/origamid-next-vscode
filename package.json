@@ -2,7 +2,7 @@
   "name": "origamid-next",
   "displayName": "Origamid Next",
   "description": "Color theme and icons for front end development (HTML, CSS, JavaScript and React)",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "publisher": "origamid",
   "engines": {
     "vscode": "^1.38.0"
