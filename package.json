@@ -32,6 +32,11 @@
         "label": "Origamid Next",
         "uiTheme": "vs-dark",
         "path": "./themes/origamid-next-color-theme.json"
+      },
+      {
+        "label": "Origamid Next Future",
+        "uiTheme": "vs-dark",
+        "path": "./themes/origamid-next-future-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -41,5 +46,20 @@
         "path": "./icons/origamid-next-icons.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "3daf304e-79b8-4725-bbac-d3c4454904fa",
+    "publisherId": "675f8d21-b1c7-43fc-a7b6-b5db4392c1d1",
+    "publisherDisplayName": "Origamid",
+    "targetPlatform": "undefined",
+    "isApplicationScoped": false,
+    "updated": true,
+    "isPreReleaseVersion": false,
+    "hasPreReleaseVersion": false,
+    "installedTimestamp": 1714451586778,
+    "pinned": false,
+    "preRelease": false,
+    "source": "gallery",
+    "size": 301313
   }
 }
