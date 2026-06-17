@@ -207,7 +207,8 @@
     "titleBar.inactiveBackground": "#111114",
     "titleBar.inactiveForeground": "#555558",
     "walkThrough.embeddedEditorBackground": "#111114",
-    "widget.shadow": "#111114cc"
+    "widget.shadow": "#111114cc",
+    "editor.linkedEditingBackground": "#44444777",
   },
   "tokenColors": [
     {
